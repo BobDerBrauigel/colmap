@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/local/lib/python3.11/dist-packages/cmake/data/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/download-faiss-populate.cmake;COMMAND;/usr/local/lib/python3.11/dist-packages/cmake/data/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/verify-faiss-populate.cmake;COMMAND;/usr/local/lib/python3.11/dist-packages/cmake/data/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/extract-faiss-populate.cmake
+source_dir=/content/colmap/build/_deps/faiss-src
+work_dir=/content/colmap/build/_deps
+url(s)=https://github.com/ahojnnes/faiss/archive/84a2fd7235be00add67d755e0300314cac669547.zip
+hash=SHA256=919ae53ff365fd85ab2a0a51b0dd58aff03718b025817b411a95f1afeb43649f
+      no_extract=
+

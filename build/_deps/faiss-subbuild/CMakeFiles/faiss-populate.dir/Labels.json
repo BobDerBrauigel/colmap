@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/content/colmap/build/_deps/faiss-subbuild/CMakeFiles/faiss-populate"
+		},
+		{
+			"file" : "/content/colmap/build/_deps/faiss-subbuild/CMakeFiles/faiss-populate.rule"
+		},
+		{
+			"file" : "/content/colmap/build/_deps/faiss-subbuild/CMakeFiles/faiss-populate-complete.rule"
+		},
+		{
+			"file" : "/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-build.rule"
+		},
+		{
+			"file" : "/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-configure.rule"
+		},
+		{
+			"file" : "/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-download.rule"
+		},
+		{
+			"file" : "/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-install.rule"
+		},
+		{
+			"file" : "/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-mkdir.rule"
+		},
+		{
+			"file" : "/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-patch.rule"
+		},
+		{
+			"file" : "/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-test.rule"
+		},
+		{
+			"file" : "/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"faiss-populate"
+		],
+		"name" : "faiss-populate"
+	}
+}

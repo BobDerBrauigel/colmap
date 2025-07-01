@@ -1,0 +1,14 @@
+# Target labels
+ faiss-populate
+# Source files and their labels
+/content/colmap/build/_deps/faiss-subbuild/CMakeFiles/faiss-populate
+/content/colmap/build/_deps/faiss-subbuild/CMakeFiles/faiss-populate.rule
+/content/colmap/build/_deps/faiss-subbuild/CMakeFiles/faiss-populate-complete.rule
+/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-build.rule
+/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-configure.rule
+/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-download.rule
+/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-install.rule
+/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-mkdir.rule
+/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-patch.rule
+/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-test.rule
+/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-update.rule

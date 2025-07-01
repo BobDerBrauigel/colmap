@@ -1,0 +1,21 @@
+# ninja log v5
+0	7	1751389789729141549	faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-mkdir	ca65102715b83310
+0	7	1751389789729141549	/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-mkdir	ca65102715b83310
+7	574	1751389790296197508	faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-download	fd6f3a03616d27e2
+7	574	1751389790296197508	/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-download	fd6f3a03616d27e2
+574	581	1751389790302198100	faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-update	ee818ca794b21798
+574	581	1751389790302198100	/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-update	ee818ca794b21798
+581	587	1751389790309198791	faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-patch	610784afef3b0480
+581	587	1751389790309198791	/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-patch	610784afef3b0480
+587	593	1751389790315199383	faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-configure	3e637c12e2be5063
+587	593	1751389790315199383	/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-configure	3e637c12e2be5063
+594	600	1751389790321199975	faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-build	331bc57a4f38b731
+594	600	1751389790321199975	/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-build	331bc57a4f38b731
+600	606	1751389790327200568	faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-install	814f396a702e0de5
+600	606	1751389790327200568	/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-install	814f396a702e0de5
+606	612	1751389790334201258	faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-test	96ba57a58b07ab89
+606	612	1751389790334201258	/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-test	96ba57a58b07ab89
+612	621	1751389790343202147	CMakeFiles/faiss-populate-complete	45b2c32cfdcd40c7
+612	621	1751389790343202147	faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-done	45b2c32cfdcd40c7
+612	621	1751389790343202147	/content/colmap/build/_deps/faiss-subbuild/CMakeFiles/faiss-populate-complete	45b2c32cfdcd40c7
+612	621	1751389790343202147	/content/colmap/build/_deps/faiss-subbuild/faiss-populate-prefix/src/faiss-populate-stamp/faiss-populate-done	45b2c32cfdcd40c7
